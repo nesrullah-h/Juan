@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{52B3CC32-D306-465E-8435-D20FCD612BB7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChatAp103 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatAp103/Startup.cs">
+    <Files>
+      <File FileName="ChatAp103/libman.json" Line="1" Column="1" />
+      <File FileName="ChatAp103/Startup.cs" Line="1" Column="1" />
+      <File FileName="ChatAp103/Program.cs" Line="1" Column="1" />
+      <File FileName="ChatAp103/Views/Home/Chat.cshtml" Line="62" Column="1" />
+      <File FileName="ChatAp103/appsettings.json" Line="1" Column="1" />
+      <File FileName="ChatAp103/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="ChatAp103/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="ChatAp103/Views/Home/SendSpecificUser.cshtml" Line="1" Column="1" />
+      <File FileName="ChatAp103/Hubs/ChatHub.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatAp103" expanded="True">
+            <Node name="ChatAp103" expanded="True">
+              <Node name="Hubs" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

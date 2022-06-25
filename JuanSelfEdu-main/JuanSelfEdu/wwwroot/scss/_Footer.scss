@@ -1,0 +1,75 @@
+footer {
+    margin-top: 50px;
+    background-color: #f0f0f0;
+    h5 {
+        color: black;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .account {
+        padding-top: 10px;
+        p {
+            color: gray;
+           
+        }
+    }
+
+    .category {
+        padding-top: 10px;
+        a {
+            :hover{
+                color: yellow;
+                transition: 0.4s;
+            }
+            p {
+                color: gray;
+            }
+        }
+    }
+    .information {
+        padding-top: 10px;
+        a {
+            :hover{
+                color: yellow;
+                transition: 0.4s;
+            }
+            p {
+                color: gray;
+            }
+        }
+    }
+    .quick {
+        padding-top: 10px;
+        a {
+            :hover{
+                color: yellow;
+                transition: 0.4s;
+            }
+            p {
+                color: gray;
+            }
+        }
+    }
+    .foote{
+        background-color: #e4e4e4;
+        padding: 20px 0;
+        .footer-start{
+            padding-left: 7rem;
+            p{
+                a{
+                    color: #e3a51e;
+                }
+            }
+        }
+        .footer-end{
+            a{
+                text-decoration: none;
+                color: gray;
+            }
+            padding-left: 34rem;
+        }
+    }
+}

@@ -1,0 +1,336 @@
+﻿@model HomeViewModel
+@{
+    ViewData["Title"] = "Home";
+    int count = 9;
+}
+
+<main>
+    <section id="Welcome">
+        <div class="owl-carousel owl-theme">
+            @foreach (var slider in Model.IntroSlider)
+            {
+
+
+            <div class="item">
+                <img src="@slider.ImageUrl"
+                     alt="">
+
+                <div class="carousel-content">
+                   @Html.Raw(slider.Title)
+                    <p class="animate__animated animate__fadeInUp">
+                       @slider.Description
+                    </p>
+                    <div>
+                        <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our Menu</a>
+                        <a href="#book-a-table"
+                           class="btn-book animate__animated animate__fadeInUp scrollto">Book a Table</a>
+                    </div>
+                </div>
+
+            </div>
+
+            }
+        </div>
+    </section>
+    <section id="About">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-5 align-items-stretch video-box"
+                     style="background-image: url(https://bootstrapmade.com/demo/templates/Delicious/assets/img/about.jpg);">
+                    <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q"
+                       class="venobox play-btn mb-4"
+                       data-vbtype="video"
+                       data-autoplay="true"></a>
+                </div>
+                <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch">
+
+                    <div class="content">
+                        <h3>
+                            Eum ipsam laborum deleniti
+                            <strong>velit pariatur architecto aut nihil</strong>
+                        </h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                            incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in
+                            reprehenderit
+                        </p>
+                        <p class="fst-italic">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                            incididunt ut labore et dolore magna aliqua.
+                        </p>
+                        <ul>
+                            <li>
+                                <i class="fas fa-check-double"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            </li>
+                            <li>
+                                <i class="fas fa-check-double"></i>Duis aute irure dolor in reprehenderit in voluptate velit.
+                            </li>
+                            <li>
+                                <i class="fas fa-check-double"></i>Ullamco laboris nisi ut aliquip ex ea commodo
+                                consequat. Duis aute irure dolor in reprehenderit in voluptate trideta
+                                storacalaperda mastiro dolore eu fugiat nulla pariatur.
+                            </li>
+                        </ul>
+                        <p>
+                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+                            in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                            deserunt mollit anim id est laborum
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="WhyChoose">
+        <div class="container">
+            <div class="row ">
+                <div class="section-title">
+                    <h2>
+                        Why choose
+                        <span style="color: #ffb03b;">Our Restaurant</span>
+                    </h2>
+                    <p>
+                        Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci
+                        expedita at voluptas atque vitae autem.
+                    </p>
+                </div>
+            </div>
+            <div class="row my-5">
+                @foreach (var item in Model.whyChooses)
+	                {
+                <div class="col-lg-4 mt-4 mt-lg-0">
+                    <div class="box">
+                        @if (count < 10)
+                        {
+                            <span>0</span><span>@count</span>
+                        }
+                        else
+                        {
+                            <span>@count</span>
+                        }
+
+
+                        <h4>@item.Title</h4>
+                        <p>
+                            @item.Description
+                        </p>
+                    </div>
+                </div>
+
+               count++;
+	                }
+                
+               
+            </div>
+        </div>
+    </section>
+    <section id="Event">
+        <div class="container">
+            <div class=" section-title my-5">
+                <h2>
+                    Organize Your
+                    <span style="color: #ffb03b;">Event</span>
+                </h2>
+            </div>
+            <div class="owl-carousel owl-theme">
+
+                <div class="item-slider">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/event-private.jpg"
+                                 alt="">
+                        </div>
+
+                        <div class="col-lg-6 event-content">
+                            <h3>Private Parties</h3>
+                            <div class="price">
+                                <p>
+                                    <span>$290</span>
+                                </p>
+                            </div>
+                            <p class="fst-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="fab fa-check-circle"></i>
+                                    Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                </li>
+                                <li>
+                                    <i class="fab fa-check-circle"></i>
+                                    Duis aute irure dolor in reprehenderit in voluptate velit.
+                                </li>
+                                <li>
+                                    <i class="fab fa-check-circle"></i>
+                                    Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                </li>
+                            </ul>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+                                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                            </p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section id="Gallery">
+        <div class="container-fluid">
+            <div class="section-title my-5">
+                <h2>
+                    Why choose
+                    <span style="color: #ffb03b;">Our Restaurant</span>
+                </h2>
+                <p>
+                    Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci
+                    expedita at voluptas atque vitae autem.
+                </p>
+            </div>
+
+            <div class="row mx-3">
+                <div class="col-lg-3 col-md-4 my-2">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-1.jpg" class="gallery-lightbox">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/gallery/gallery-1.jpg"
+                                 alt=""
+                                 class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 my-2">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-1.jpg" class="gallery-lightbox">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/gallery/gallery-1.jpg"
+                                 alt=""
+                                 class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 my-2">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-1.jpg" class="gallery-lightbox">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/gallery/gallery-1.jpg"
+                                 alt=""
+                                 class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 my-2">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-1.jpg" class="gallery-lightbox">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/gallery/gallery-1.jpg"
+                                 alt=""
+                                 class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="Chefs">
+        <div class="container">
+
+            <div class="section-title my-5">
+                <h2>
+                    Why choose
+                    <span style="color: #ffb03b;">Chefs</span>
+                </h2>
+                <p>
+                    Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci
+                    expedita at voluptas atque vitae autem.
+                </p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="member">
+                        <div class="pic">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/chefs/chefs-1.jpg"
+                                 class="img-fluid"
+                                 alt="">
+                        </div>
+                        <div class="member-info">
+                            <h4>Walter White</h4>
+                            <span>Master Chef</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="member">
+                        <div class="pic">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/chefs/chefs-1.jpg"
+                                 class="img-fluid"
+                                 alt="">
+                        </div>
+                        <div class="member-info">
+                            <h4>Walter White</h4>
+                            <span>Master Chef</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="member">
+                        <div class="pic">
+                            <img src="https://bootstrapmade.com/demo/templates/Delicious/assets/img/chefs/chefs-1.jpg"
+                                 class="img-fluid"
+                                 alt="">
+                        </div>
+                        <div class="member-info">
+                            <h4>Walter White</h4>
+                            <span>Master Chef</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

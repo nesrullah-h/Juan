@@ -1,0 +1,319 @@
+﻿@model HomeVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section id="slideshow">
+    <div class="container">
+        <div class="">
+            <div class="slideshow-container">
+                @if (Model.Slider.Count() > 0)
+                {
+                    @foreach (var item in Model.Slider.Take(2))
+                    {
+
+                        <div class="mySlides fade">
+                            <img src="~/images/slider/@item.Image" style="width:100%">
+                            <div class="text">
+                                <h5>@item.Title</h5>
+                                <h1>@item.Subtitle</h1>
+                                <h6>@Html.Raw(item.Desc)</h6>
+                                <a href="#" class="btn btn-hero">SHOP NOW</a>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <h1> no data here</h1>
+                }
+
+
+
+
+
+
+                <a class="prev" onclick="plusSlides(-1)">❮</a>
+                <a class="next" onclick="plusSlides(1)">❯</a>
+
+            </div>
+            <br>
+
+        </div>
+    </div>
+</section>
+
+
+<section class="service-policy-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 ">
+                <div class="service-policy-item mt-30 bg-1">
+                    <div class="policy-icon">
+                        <img src="~/images/icon/policy-1.png" alt="policy icon">
+                    </div>
+                    <div class="policy-content">
+                        <h5 class="policy-title">FREE SHIPPING</h5>
+                        <p class="policy-desc">Free shipping on all order</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="service-policy-item mt-30 bg-2">
+                    <div class="policy-icon">
+                        <img src="~/images/icon/policy-2.png" alt="policy icon">
+                    </div>
+                    <div class="policy-content">
+                        <h5 class="policy-title">ONLINE SUPPORT</h5>
+                        <p class="policy-desc">Online support 24 hours a day</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="service-policy-item mt-30 bg-3">
+                    <div class="policy-icon">
+                        <img src="~/images/icon/policy-3.png" alt="policy icon">
+                    </div>
+                    <div class="policy-content">
+                        <h5 class="policy-title">MONEY RETURN</h5>
+                        <p class="policy-desc">Back guarantee under 5 days</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="product">
+    <div class="container">
+        <div class="row">
+            <div class="p-titlem">
+                <h3>
+                    Our Product
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing
+                </p>
+            </div>
+
+
+            @if (Model.Product.Count() > 0)
+            {
+                @foreach (var item in Model.Product.Take(4))
+                {
+                    <div class="col-3">
+                        <div class="bor">
+                            <div class="p-img">
+                                <img src="~/images/product/@item.Image" alt="">
+                            </div>
+                            <div class="p-title">
+                                <p>@item.Title</p>
+                            </div>
+                            <div class="p-price">
+                                <p> $@item.Price</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <h1>no data here</h1>
+            }
+
+        </div>
+    </div>
+</section>
+<section id="banner">
+    <div class="banner d-flex">
+        @if (Model.Banner.Count() > 0)
+        {
+            @foreach (var item in Model.Banner)
+            {
+                <div class="col-6 ">
+                    <div class="con">
+                        <div class="banb">
+
+                            <img src="~/images/banner/@item.Image" alt="">
+                        </div>
+                        <div class="ban-title">
+                            <h5>
+                                @item.Name
+                            </h5>
+                            @Html.Raw(item.Desc)
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <h1>no data here</h1>
+        }
+    </div>
+</section>
+
+<section id="top-seller">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title text-center">
+                    <h2 class="title">Top Seller</h2>
+                    <p class="sub-title">Lorem ipsum dolor sit amet consectetur adipisicing</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-4 ">
+                <div class="product-banner">
+                    <a href="#">
+                        <img src="~/images/banner/banner-3.jpg" alt="product banner">
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                @if (Model.Seller.Count() > 0)
+                {
+                    @foreach (var item in Model.Seller.Take(2))
+                    {
+                        <div class="slick-slide">
+                            <div>
+                                <div class="slide-item ">
+                                    <div class="pro-item-small mt-30 ">
+                                        <div class="product-thumb">
+                                            <a href="">
+                                                <img src="~/images/product/@item.Image" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="pro-small-content ">
+                                            <h6 class="product-name">
+                                                <a href="">@item.Name</a>
+                                            </h6>
+                                            <div class="price-box d-flex">
+                                                <span class="price-regular">$@item.Price</span>
+                                                <span class="price-old"><del>$70.00</del></span>
+
+                                            </div>
+                                            <div class="">
+                                                (<i class="fa-solid fa-star"></i>)*@item.Stars
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+                }
+                else
+                {
+                    <h1>no data here</h1>
+
+                }
+
+
+
+            </div>
+            <div class="col-xl-4">
+                @if (Model.Seller.Count() > 0)
+                {
+                    @foreach (var item in Model.Seller.Skip(2).Take(2))
+                    {
+                        <div class="slick-slide">
+                            <div>
+                                <div class="slide-item ">
+                                    <div class="pro-item-small mt-30 ">
+                                        <div class="product-thumb">
+                                            <a href="">
+                                                <img src="~/images/product/@item.Image" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="pro-small-content ">
+                                            <h6 class="product-name">
+                                                <a href="">@item.Name</a>
+                                            </h6>
+                                            <div class="price-box d-flex">
+                                                <span class="price-regular">$@item.Price</span>
+                                                <span class="price-old"><del>$70.00</del></span>
+
+                                            </div>
+                                            <div class="">
+                                                (<i class="fa-solid fa-star"></i>)*@item.Stars
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+                }
+                else
+                {
+                    <h1>no data here</h1>
+                }
+            </div>
+
+        </div>
+    </div>
+</section>
+
+        <section id="blog">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section-title text-center">
+                            <h2 class="title">OUR BLOG</h2>
+                            <p class="sub-title">Lorem ipsum dolor sit amet consectetur adipisicing</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex">
+                 @if (Model.Blog.Count()>0)
+                {
+                    @foreach (var item in Model.Blog.Take(3))
+                   {
+                          <div class="blog-elements ">
+                        <div class="blog-items ">
+                            <a href="#"><img src="~/images/blog/@item.Image" alt=""></a>
+                        </div>
+                        <div class="blog-texts">
+                            <h6>
+                                <a href="">
+                                    @Html.Raw(item.Name)
+                                </a>
+                            </h6>
+                            <span>@item.Title</span>
+                            <p><a href="">Read More...</a></p>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <h1>no data here</h1>
+            }
+       
+        </section>
+
+
+        <section id="brands">
+            <div class="container">
+                <div class="row">
+                    <div class="brand-items">
+                       @if (Model.Brand.Count()>0)
+                      {
+                          @foreach (var item in Model.Brand)
+                         {
+                              <img src="~/images/brand/@item.Image" alt="">
+                         }
+                      }
+                    </div>
+                </div>
+            </div>
+        </section>

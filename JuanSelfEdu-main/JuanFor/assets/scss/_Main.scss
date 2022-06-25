@@ -1,0 +1,168 @@
+*body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: 14px/2 "Open sans", sans-serif;
+    letter-spacing: 0.05em;
+}
+
+
+.align-items-center {
+    background-color: #e3a51e;
+
+    li {
+        color: white;
+        margin-right: 15%;
+    }
+}
+
+.welcome-message {
+    p {
+        margin-left: 140px;
+        padding-top: 10px;
+        color: white;
+    }
+}
+
+.logo {
+    padding: 50px;
+}
+
+.menu {
+    padding: 58px;
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            list-style: none;
+            padding-inline-start: 13%;
+
+            a {
+                color: black;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.icons {
+    padding-top: 57px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bg-1 {
+    background-color: #fcedda;
+    display: flex;
+    width: 81%;
+    padding-left: 26px;
+    padding: 20px;
+
+    .policy-content {
+        padding-top: 10px;
+
+        h5 {
+            padding-left: 20px;
+        }
+
+        p {
+            padding-left: 20px;
+        }
+    }
+}
+
+.bg-2 {
+    background-color: #f2fbcb;
+    display: flex;
+    width: 81%;
+    padding-left: 26px;
+    padding: 20px;
+
+    .policy-content {
+        padding-top: 10px;
+
+        h5 {
+            padding-left: 20px;
+        }
+
+        p {
+            padding-left: 20px;
+        }
+    }
+}
+
+.bg-3 {
+    background-color: #f7d8f9;
+    display: flex;
+    width: 81%;
+    padding-left: 26px;
+    padding: 20px;
+
+    .policy-content {
+        padding-top: 10px;
+
+        h5 {
+            padding-left: 20px;
+        }
+
+        p {
+            padding-left: 20px;
+        }
+    }
+}
+
+
+
+#product {
+    padding: 5%;
+
+    .p-titlem {
+        h3 {
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+            color: gray;
+        }
+    }
+
+    .col-3{
+        .bor {
+            border: 1px black solid;
+          
+        }
+    }
+
+    
+}
+
+
+#banner {
+   .banner{
+       padding: 7%;
+       .con{
+        position: relative;
+        text-align: center;
+        color: white;
+        .banb{
+            img{
+                width: 100%;
+            }
+        }
+        .ban-title{
+            position: absolute;
+            top: 8px;
+            left: 16px;
+            h5{
+                padding-right: 60px;
+            }
+            h3{
+                padding-right: 10px;
+            }
+        }
+       }
+   }
+}

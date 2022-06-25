@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    int count=0;
+}
+@model IEnumerable<Features>
+
+<main>
+    <section id="Welcome">
+        <div class="container text-container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="phone">
+
+                    </div>
+                </div>
+                <div class="col-lg-6"></div>
+            </div>
+
+        </div>
+        
+
+    </section>
+
+    <section id="Cards">
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    if (count >= 6) break;
+                    <div class="col-lg-4 my-2">
+                        <div class="card-item">
+                            <a href="" class="icon-box">@Html.Raw(item.IconUrl)</a>
+                            <h4>Responsive Bootstrap Template</h4>
+                            <p>orem ipsum dolizzle sit tellivizzle, boom shackalack adipiscing elit. Nullam mofo velizzle, get down get down stuff, sure cool, dizzle vizzle, arcu. Yo mamma izzle tortizzle.</p>
+                        </div>
+                    </div>
+                    count++;
+                }
+
+
+            </div>
+        </div>
+    </section>
+    <section id="SayPeople">
+        <div class="container carusel-container">
+            <div class="row section-title my-4"><h3>What people say</h3></div>
+            <div class="row">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <h3>"Praesent i saw beyonces tizzles and my pizzle went crizzle turpizzle."</h3>
+                        <h5>Jennifer Aliquizzle</h5>
+                    </div>
+                    <div class="item">
+                        <h3>"Praesent i saw beyonces tizzles and my pizzle went crizzle turpizzle."</h3>
+                        <h5>Jennifer Aliquizzle</h5>
+                    </div>
+                    <div class="item">
+                        <h3>"Praesent i saw beyonces tizzles and my pizzle went crizzle turpizzle."</h3>
+                        <h5>Jennifer Aliquizzle</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="ContactUs">
+        <div class="container">
+            <div class="row section-title my-4">
+                <h3 class="my-3">Contact Us</h3>
+                <p>Want to chat? Send us a message. We'd love to hear from you!</p>
+            </div>
+            <div class="row justify justify-content-center">
+                <div class="col-lg-8">
+                    <form action="">
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-md-6 my-3">
+                                    <p class="mb-1 label">Name</p> <input id="e-mail" type="text" placeholder="Enter your email" name="email" class="form-control input-box rm-border">
+                                </div>
+
+
+                                <div class="col-md-6 my-3">
+                                    <p class="mb-1 label">Email</p> <input id="e-mail" type="text" placeholder="Enter your email" name="email" class="form-control input-box rm-border">
+                                </div>
+                                <div class="col-md-12 my-3">
+                                    <p class="mb-1 label">Message</p> <textarea name="" id="" rows="5"></textarea>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <button class="btn btn-primary">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</main>

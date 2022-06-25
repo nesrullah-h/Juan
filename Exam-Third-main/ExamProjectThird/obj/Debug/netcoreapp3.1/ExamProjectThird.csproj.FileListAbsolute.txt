@@ -1,0 +1,633 @@
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfo.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\staticwebassets\ExamProjectThird.StaticWebAssets.Manifest.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\staticwebassets\ExamProjectThird.StaticWebAssets.xml
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExamProjectThird.styles.css
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.input.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.output.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorCoreGenerate.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.dll
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.pdb
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.exe
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.deps.json
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.json
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.dev.json
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.pdb
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.genruntimeconfig.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CopyComplete
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csprojAssemblyReference.cache
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.exe
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.deps.json
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.json
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.dev.json
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.pdb
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csprojAssemblyReference.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfo.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\staticwebassets\ExamProjectThird.StaticWebAssets.Manifest.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\staticwebassets\ExamProjectThird.StaticWebAssets.xml
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\scopedcss\bundle\ExamProjectThird.styles.css
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.input.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.output.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorCoreGenerate.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CopyComplete
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.pdb
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.genruntimeconfig.cache
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Create.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Update.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IntroSlider\Index.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IntroSlider\Create.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegistration.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Tural\Desktop\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\LogIn.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfoInputs.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfo.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CoreCompileInputs.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.MvcApplicationPartsAssemblyInfo.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.pdb
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.exe
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.deps.json
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.json
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.dev.json
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.pdb
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\staticwebassets\ExamProjectThird.StaticWebAssets.Manifest.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.input.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.output.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorCoreGenerate.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IntroSlider\Create.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IntroSlider\Index.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Create.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Index.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Update.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\LogIn.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegistration.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cs
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CopyComplete
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.genruntimeconfig.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.AssemblyReference.cache
+D:\Folders\Code Acadeym Practis\AspNet\EP43\ExamThird\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.exe
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.deps.json
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.json
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.runtimeconfig.dev.json
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.pdb
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.AssemblyInfo.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\staticwebassets\ExamProjectThird.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.input.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.TagHelpers.output.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IntroSlider\Create.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IntroSlider\Index.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Create.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Index.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WhyChoose\Update.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\LogIn.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Account\SuccessRegistration.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.Views.pdb
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.csproj.CopyComplete
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.dll
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.pdb
+C:\Users\HP\Desktop\AspNet\Exam-Third-main\ExamProjectThird\obj\Debug\netcoreapp3.1\ExamProjectThird.genruntimeconfig.cache

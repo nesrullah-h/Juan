@@ -1,0 +1,201 @@
+﻿@model HomeVM
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/scss/index.css">
+    <title>Juan</title>
+</head>
+
+<body>
+
+
+
+    <header>
+
+        <div class="header-top theme-bg">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="welcome-message">
+                        <p>Welcome to Juan online store</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 text-right">
+                    <div class="header-top-settings">
+                        <ul class="nav align-items-center justify-content-end">
+                            <li class="curreny-wrap">
+                                $ Dollar (US)
+                            </li>
+
+                            <li class="language">
+                                English
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <nav>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <div class="logo">
+                            <img src="~/images/@Model.Setting.Logo" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="menu">
+                            <ul>
+                                <li><a href="">HOME</a></li>
+                                <li><a href="">PAGES</a></li>
+                                <li><a href="">SHOP</a></li>
+                                <li><a href="">BLOG</a></li>
+                                <li><a href="">CONTACT</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2">
+                        <div class="icons">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <i class="fa-solid fa-gear"></i>
+                            <i class="fa-solid fa-basket-shopping"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+
+    </main>
+ <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+                    <h5>My Account</h5>
+                    <div class="account">
+                        <p>@Model.Setting.Location</p>
+                        <p>Mail Us: @Model.Setting.Mail</p>
+                        <p>Phone: @Model.Setting.Phone</p>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <h5>
+                        Categories
+                    </h5>
+                    <div class="category">
+                        <a href="">
+                            <p>
+                                Ecommerce
+                            </p>
+                        </a>
+                        <a href="">
+                            <p>
+                                Shopify
+                            </p>
+                        </a>
+                        <a href="">
+                            <p>
+                                Prestashop
+
+                            </p>
+                        </a>
+                        <a href="">
+                            <p>
+                                Opencart
+                            </p>
+                        </a>
+                        <a href="">
+                            <p>
+                                Magento
+                            </p>
+                        </a>
+                        <a href="">
+                            <p>
+                                Jigoshop
+
+                            </p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <h5>
+                        Information
+                    </h5>
+                    <div class="information">
+                        <a href="">
+                            <p>Home</p>
+                        </a>
+                        <a href="">
+                            <p>About Us</p>
+                        </a>
+                        <a href="">
+                            <p>Contact Us</p>
+                        </a>
+                        <a href="">
+                            <p>Returns & Exchanges</p>
+                        </a>
+                        <a href="">
+                            <p>Shipping & Delivery</p>
+                        </a>
+                        <a href="">
+                            <p>Privacy Policy</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <h5>
+                        Quick Links
+                    </h5>
+                    <div class="quick">
+                        <a href="">
+                            <p>Quick Links</p>
+                        </a>
+                        <a href="">
+                            <p>Quick Links</p>
+                        </a>
+                        <a href="">
+                            <p>Quick Links</p>
+                        </a>
+                        <a href="">
+                            <p>Quick Links</p>
+                        </a>
+                        <a href="">
+                            <p>Quick Links</p>
+                        </a>
+                        <a href="">
+                            <p>Quick Links</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row foote ">
+            <div class="footer-start col-md-6">
+                <p>Copyright 2019 <a href="index.html">Juan</a>. All Rights Reserved</p>
+            </div>
+            <div class="footer-end col-md-6">
+                <a href="@Model.Setting.Face"><i class="fa-brands fa-facebook"></i></a>
+                <a href="@Model.Setting.Twitter"><i class="fa-brands fa-twitter"></i></a>
+                <a href="@Model.Setting.Linkedin"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="@Model.Setting.Insta"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/js/app.js"></script>
+</body>
+
+</html>

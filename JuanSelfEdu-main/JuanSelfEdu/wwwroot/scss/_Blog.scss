@@ -1,0 +1,34 @@
+#blog{
+    padding-top: 10%;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    .blog-elements{
+        padding: 15px;
+        .blog-items{
+            a{
+                img{
+                    width: 24rem;
+                    height: 15rem;
+                }
+            }
+        }
+
+        .blog-texts{
+            padding:10% 2%;
+            h6{
+                :hover{
+                    color: yellow;
+                   transition: 0.4s;
+                }
+                a{
+                    color: black;
+                }
+            }
+            p{
+                padding-top: 30px;
+            }
+        }
+    }
+}
